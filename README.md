@@ -1,11 +1,11 @@
 # VIS142_assig1
-shoots off colorful projectile
+> Jialin Chen, Oct 2022
 
 Instructions:
-
-“Esc”		    – exit game
-“Space Bar”	– empty screen
-“P”		      – take screenshot of current work and empty screen
+* click mouse to shoots off colorful projectiles
+* `Esc`		    – exit game
+* `Spacebar`	– empty screen
+* `P`		      – take screenshot of current work and empty screen
 
 Result example:
 ![screenshot1](screenshot1.jpeg)
